@@ -1,0 +1,96 @@
+Name = "MDErgo1";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+U"EQUALS" : U"EQUALS";
+U"1" : U"1";
+U"2" : U"2";
+U"3" : U"3";
+U"4" : U"4";
+U"5" : U"5";
+U"ESCAPE" : U"ESCAPE";
+
+U"BACKSLASH" : U"TAB";
+U"Q" : U"Q";
+U"W" : U"W";
+U"E" : U"F";
+U"R" : U"P";
+U"T" : U"G";
+
+U"TAB" : U"LCTRL";
+U"A" : U"A";
+U"S" : U"R";
+U"D" : U"S";
+U"F" : U"T";
+U"G" : U"D";
+U"FUNCTION1" : U"ESCAPE";
+
+U"LSHIFT" : U"LSHIFT";
+U"Z" : U"Z";
+U"X" : U"X";
+U"C" : U"C";
+U"V" : U"V";
+U"B" : U"B";
+#U"FUNCTION2" : U"FUNCTION2";
+
+U"LGUI" : U"LGUI";
+U"BACKTICK" : U"BACKTICK";
+#U"FUNCTION3" : U"FUNCTION3";
+#U"FUNCTION4" : U"FUNCTION4";
+U"FUNCTION5" : U"LALT";
+
+U"LCTRL" : U"LCTRL";
+U"LALT" : U"LALT";
+U"BACKSPACE" : U"BACKSPACE";
+U"DELETE" : U"DELETE";
+U"HOME" : U"HOME";
+U"END" : U"END";
+
+#U"FUNCTION6" : U"FUNCTION6";
+U"6" : U"6";
+U"7" : U"7";
+U"8" : U"8";
+U"9" : U"9";
+U"0" : U"0";
+U"MINUS" : U"MINUS";
+
+U"LBRACE" : U"LBRACE";
+U"Y" : U"J";
+U"U" : U"L";
+U"I" : U"U";
+U"O" : U"Y";
+U"P" : U"SEMICOLON";
+U"RBRACE" : U"BACKSLASH";
+
+U"H" : U"H";
+U"J" : U"N";
+U"K" : U"E";
+U"L" : U"I";
+U"SEMICOLON" : U"O";
+U"QUOTE" : U"QUOTE";
+
+#U"FUNCTION7" : U"FUNCTION7";
+U"N" : U"K";
+U"M" : U"M";
+U"COMMA" : U"COMMA";
+U"PERIOD" : U"PERIOD";
+U"SLASH" : U"SLASH";
+U"RSHIFT" : U"RSHIFT";
+
+U"LEFT" : U"RALT";
+U"DOWN" : U"DOWN";
+U"UP" : U"UP";
+U"RIGHT" : U"RIGHT";
+U"RGUI" : U"RGUI";
+
+U"RALT" : U"RALT";
+U"RCTRL" : U"RCTRL";
+U"SPACE" : U"SPACE";
+U"ENTER" : U"ENTER";
+U"PAGEUP" : U"PAGEUP";
+#U"PAGEDOWN" : U"LCK1";
