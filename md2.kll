@@ -17,15 +17,6 @@ Generator = "KIICONF 0.2";
 # BACKSLASH: ű
 
 U"PAGEDOWN" : flashMode();
-U"R" : U"LBRACE";
-U"F" : U"EQUALS";
-U"V" : U"0";
-U"E" : U"BACKSLASH";
-U"D" : U"RBRACE";
-U"C" : U"MINUS";
-U"W" : U"ISO/";
-U"S" : U"QUOTE";
-U"A" : U"SEMICOLON";
 U"5" : U"F5";
 U"4" : U"F4";
 U"3" : U"F3";
